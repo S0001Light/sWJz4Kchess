@@ -1,8 +1,10 @@
 # sWJz4Chess
 
+date started on github.com 11-13-2021
+
 In the works, creating a new Chess Board and way to Play...
 
-starting to write this in Pygame, any persons out there want to help create this game?
+starting to write this in Pygame, any individuals out there want to help create this game?
 
 Program Requirements:
 
@@ -29,7 +31,7 @@ making a timer.
 
 making a touch this piece and take away that piece feature, by placing pieces off the board, but in window.
 
-contact me through @github.com
+contact me through @github.com or on this project page discussion board.
 
 Looking for a few individuals that would like to work on this project with me through the internet for free.
 
