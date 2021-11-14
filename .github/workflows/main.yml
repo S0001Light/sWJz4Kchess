@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: 4 Kings Chess.
+name: SCS - WritersJumbler.com, 4 Kings Chess.
 
 # Controls when the workflow will run
 on:
@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest, windows-latest, macosx-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -28,10 +28,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: 'Greetings from - Shawn, from writersjumbler.com'
         run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-          apt-get install pip python3 python3-pygame
