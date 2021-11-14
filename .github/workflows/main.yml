@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu, windows, macos - with python and pygame
+    runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: 'Greetings from writersjumbler.com - Shawn'
+      - name: 'Greetings from - Shawn, from writersjumbler.com'
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          apt-get install pip python3 python3-pygame
