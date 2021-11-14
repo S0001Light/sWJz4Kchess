@@ -4,6 +4,15 @@ In the works, creating a new Chess Board and way to Play...
 
 starting to write this in Pygame, any persons out there want to help create this game?
 
+Program Requirements:
+
+python 3
+pygame - Latest
+
+__________
+
+If working with the .py Pygame file, edit "C:/Documents/" to where the file is located at on your system.
+
 where I'm at with this, at this time...
 
 board drawn
