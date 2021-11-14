@@ -1,4 +1,4 @@
-# sWJz4Chess
+# sWJz4KingsChess
 
 date started on github.com 11-13-2021
 
@@ -33,7 +33,7 @@ making a touch this piece and take away that piece feature, by placing pieces of
 
 contact me through @github.com or on this project page discussion board.
 
-Looking for a few individuals that would like to work on this project with me through the internet for free.
+Looking for a few 2 to 4, individuals that would like to work on this project with me through the internet for free.
 
 See what happens.
 
