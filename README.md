@@ -4,6 +4,8 @@ date started on github.com 11-13-2021
 
 In the works, creating a new Chess Board and way to Play...
 
+the different way to play the game would be, at the start, where pawns - at start move 10, 20, 30, 40, 50 moves ahead - each side, before pieces start moving as at same pace as regular chess.
+
 starting to write this in Pygame, any individuals out there want to help create this game?
 
 Program Requirements:
@@ -12,8 +14,6 @@ python 3
 pygame - Latest
 
 __________
-
-If working with the .py Pygame file, edit "C:/Documents/" to where the file is located at on your system.
 
 where I'm at with this, at this time...
 
