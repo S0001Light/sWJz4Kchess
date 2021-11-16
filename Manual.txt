@@ -1,0 +1,22 @@
+#writersjumbler.com = 11-16-2021
+
+Number of players 1 To 4.
+
+To play the game,
+
+At the start:
+    
+Pawns move 10+-0, 20+-0, 30+-0, 40+-0, 50+-0, moves. Without taking pieces, all players.
+
+Possible examples, shown.
+
+After, move as regular chess pieces.
+
+4 King's = (1 space, S, W, E, N)
+4 Queen's = (All spaces, S, SW, W, NW, N, NE, E, SE)
+4 Knight's = (L shape, N/S+-2+W/E+-1)
+4 Bishop's = (SW, NW, NE, SE)
+4 Rouke's = (S, N, W, E)
+32 Pawn's = Only first move, + 2 (N, Only), Takes only, (NW, NE). Rest of the moves + 1 (N, Only)
+
+Enjoy.
